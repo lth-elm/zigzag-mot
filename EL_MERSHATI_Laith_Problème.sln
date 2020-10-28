@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EL_MERSHATI_Laith_Problème", "EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème.csproj", "{F35412D7-71E4-45C9-8B4A-FD91216B2756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{88DD6584-D0AF-4DD2-971E-03C1F2F5C50F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35412D7-71E4-45C9-8B4A-FD91216B2756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35412D7-71E4-45C9-8B4A-FD91216B2756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35412D7-71E4-45C9-8B4A-FD91216B2756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35412D7-71E4-45C9-8B4A-FD91216B2756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DD6584-D0AF-4DD2-971E-03C1F2F5C50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DD6584-D0AF-4DD2-971E-03C1F2F5C50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DD6584-D0AF-4DD2-971E-03C1F2F5C50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DD6584-D0AF-4DD2-971E-03C1F2F5C50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF1FACE-1173-4FBF-A767-E51F13A08AA4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\laith\OneDrive\Bureau\Cours Esilv\A2\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\bin\Debug\EL_MERSHATI_Laith_Problème.exe.config
+C:\Users\laith\OneDrive\Bureau\Cours Esilv\A2\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\bin\Debug\EL_MERSHATI_Laith_Problème.exe
+C:\Users\laith\OneDrive\Bureau\Cours Esilv\A2\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\bin\Debug\EL_MERSHATI_Laith_Problème.pdb
+C:\Users\laith\OneDrive\Bureau\Cours Esilv\A2\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\obj\Debug\EL_MERSHATI_Laith_Problème.csprojAssemblyReference.cache
+C:\Users\laith\OneDrive\Bureau\Cours Esilv\A2\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\obj\Debug\EL_MERSHATI_Laith_Problème.csproj.CoreCompileInputs.cache
+C:\Users\laith\OneDrive\Bureau\Cours Esilv\A2\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\obj\Debug\EL_MERSHATI_Laith_Problème.exe
+C:\Users\laith\OneDrive\Bureau\Cours Esilv\A2\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\obj\Debug\EL_MERSHATI_Laith_Problème.pdb
+C:\Users\laith\OneDrive - De Vinci\Cours Esilv\A2\Semestre 1\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\bin\Debug\EL_MERSHATI_Laith_Problème.exe.config
+C:\Users\laith\OneDrive - De Vinci\Cours Esilv\A2\Semestre 1\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\bin\Debug\EL_MERSHATI_Laith_Problème.exe
+C:\Users\laith\OneDrive - De Vinci\Cours Esilv\A2\Semestre 1\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\bin\Debug\EL_MERSHATI_Laith_Problème.pdb
+C:\Users\laith\OneDrive - De Vinci\Cours Esilv\A2\Semestre 1\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\obj\Debug\EL_MERSHATI_Laith_Problème.csprojAssemblyReference.cache
+C:\Users\laith\OneDrive - De Vinci\Cours Esilv\A2\Semestre 1\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\obj\Debug\EL_MERSHATI_Laith_Problème.csproj.CoreCompileInputs.cache
+C:\Users\laith\OneDrive - De Vinci\Cours Esilv\A2\Semestre 1\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\obj\Debug\EL_MERSHATI_Laith_Problème.exe
+C:\Users\laith\OneDrive - De Vinci\Cours Esilv\A2\Semestre 1\Algorithmique et Programmation Orientée Objet\EL_MERSHATI_Laith_Problème\EL_MERSHATI_Laith_Problème\obj\Debug\EL_MERSHATI_Laith_Problème.pdb
